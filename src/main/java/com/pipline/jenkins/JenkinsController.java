@@ -14,4 +14,3 @@ public class JenkinsController {
     }
     //added comment for maven
 }
-//added docker file
